@@ -1,0 +1,1 @@
+sudo mysql -u eka -p a1_t3 -B < query_1c.sql
